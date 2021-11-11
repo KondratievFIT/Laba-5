@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.exe
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.deps.json
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.runtimeconfig.json
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.dll
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\ref\Laba5 Zav2.dll
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\bin\Debug\net5.0\Laba5 Zav2.pdb
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.AssemblyInfo.cs
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.dll
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\ref\Laba5 Zav2.dll
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.pdb
+C:\Users\user\Desktop\Laba-5\Laba5 Zav2\Laba5 Zav2\Laba5 Zav2\obj\Debug\net5.0\Laba5 Zav2.genruntimeconfig.cache
